@@ -11,3 +11,8 @@ int main(int argc, char *argv[])
   return 0;
 }
 
+int GetSqr(int x)
+{
+    return x * x;
+}
+
