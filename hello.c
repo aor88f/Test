@@ -16,3 +16,8 @@ int GetSqr(int x)
     return x * x;
 }
 
+int Zero()
+{
+    return 0;
+}
+
